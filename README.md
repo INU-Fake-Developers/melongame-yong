@@ -1,6 +1,6 @@
 # melongame-yong
 모코코 수박게임입니다
-링크 : mococo-watermelongame.netlify.app
+링크 : https://mococo-watermelongame.netlify.app
 
 
 original code: 合成大西瓜 🍉
